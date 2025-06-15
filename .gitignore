@@ -4,8 +4,9 @@ __pycache__/
 *.pyc
 
 # Node
-frontend/node_modules/
+node_modules/
 dist/
+
 
 # General
 .eslintcache
