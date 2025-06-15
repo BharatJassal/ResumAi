@@ -8,4 +8,8 @@ frontend/node_modules/
 dist/
 
 # General
+.eslintcache
+.cache/
+.vite/
 .env
+.DS_Store
